@@ -35,5 +35,6 @@
   </a> 
 </div>
 
-![Snake animation](rose-del)
+![Snake animation](https://github.com/rose-del)
+
 
