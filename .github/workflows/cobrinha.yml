@@ -18,9 +18,7 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       # Ação para publicar no GitHub Pages
-      - uses: crazy-max/ghaction-github-pages@v3
+      - name: My Action
+        uses: some/action
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          MY_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.MY_GITHUB_TOKEN }}
