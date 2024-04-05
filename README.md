@@ -3,13 +3,24 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Rose;I'm+18+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
 <br>
-<br>
 
 <div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rose-del&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
-
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://git.io/rose-del">
+          <img  width="150%" src="https://github-readme-streak-stats.herokuapp.com?user=rose-del&theme=violet-dark&date_format=M%20j%5B%2C%20Y%5D&card_width=900" alt="GitHub Streak" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/rose-del">
+          <img  width="150%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rose-del&layout=compact&bg_color=000000&title_color=ffffff&text_color=ff007f" alt="Top Langs" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 <div align="center" >
    
@@ -28,6 +39,19 @@
   <img  height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img  height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+##
+
+<div align="center">
+  
+<br>
+
+<p align="centre"><b>Visitors Count</b></p> 
+  
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Frose-del&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<br>
+</div>
+
 
 ##
 
