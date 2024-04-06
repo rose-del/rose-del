@@ -9,12 +9,12 @@
     <tr>
       <td align="center">
         <a href="https://git.io/rose-del">
-          <img  width="150%" src="https://github-readme-streak-stats.herokuapp.com?user=rose-del&theme=violet-dark&date_format=M%20j%5B%2C%20Y%5D&card_width=900" alt="GitHub Streak" />
+          <img  src="https://github-readme-streak-stats.herokuapp.com?user=rose-del&theme=violet-dark&date_format=M%20j%5B%2C%20Y%5D&card_width=900" alt="GitHub Streak" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/rose-del">
-          <img  width="150%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rose-del&layout=compact&bg_color=000000&title_color=ffffff&text_color=ff007f" alt="Top Langs" />
+          <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rose-del&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ff007f" alt="Top Langs" />
         </a>
       </td>
     </tr>
