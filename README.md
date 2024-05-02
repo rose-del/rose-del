@@ -4,40 +4,40 @@
 
 <br>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://git.io/rose-del">
-          <img  src="https://github-readme-streak-stats.herokuapp.com?user=rose-del&theme=violet-dark&date_format=M%20j%5B%2C%20Y%5D&card_width=900" alt="GitHub Streak" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/rose-del">
-          <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rose-del&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ff007f" alt="Top Langs" />
-        </a>
-      </td>
-    </tr>
-  </table>
+<div>
+  <h2>👨🏻‍💻 Languages and Tools </h2>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 </div>
 
+<br/>
 
-<div align="center" >
-   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rose-del&bg_color=000000&color=e518a5&line=e518a5&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
- ##
-<div align="left">
+<div>
+    <h2>📊 Stats and Activity</h2>
+  <h3>🔥 Streak Stats</h3>
+  <a href="https://git.io/rose-del">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com?user=rose-del&theme=violet-dark&date_format=M%20j%5B%2C%20Y%5D&card_width=900" alt="rose-del's streak"/>
+  </a>
+  <h3>💻 GitHub Profile Stats</h3>
+  <a href="https://git.io/rose-del">
+    <img src="https://github-readme-stats.vercel.app/api?username=rose-del&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ff007f" height="192px" alt="rose-del's Github Stats"/>
+  </a>
+  <a href="https://git.io/rose-del">
+    <img alt="rose-del's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rose-del&layout=compact&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ff007f" height="192px"/>
+  </a>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=30&pause=1000&color=FF3592&random=false&width=435&lines=Main+skills:)](https://git.io/typing-svg)
+  <br/>
+  <br/>
+  
+  [![Rose-del's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rose-del&bg_color=000000&color=e518a5&line=e518a5&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  <img  height="84" width="84" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img  height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img  height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img  height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img  height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ##
