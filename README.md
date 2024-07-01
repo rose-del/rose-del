@@ -7,10 +7,9 @@
 <br/>
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rose-del&langs_count=8&disable_animations=false&theme=aura&locale=en&hide_border=true"  height="155" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=rose-del&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5" height="155" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rose-del&layout=compact&langs_count=8&theme=aura&hide_border=true" height="155" alt="languages graph"  />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=rose-del&langs_count=8&disable_animations=false&theme=aura&locale=en&hide_border=true"  height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rose-del&layout=compact&langs_count=8&theme=aura&hide_border=true" height="160" alt="languages graph"  />
 </div>
 
 <div align="left">
