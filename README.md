@@ -1,40 +1,40 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F73D9F&height=120&section=header"/>
+  
+  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"/>
+  <h1>Hi there, my name is Rose. Welcome to my Github profile</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello+World%2C+my+name+is+Rose;I'm+18+years+old;I'm+a+Software+Developer;I'm+from+Brazil)](https://git.io/typing-svg)
+<br/>
+<br/>
+<br/>
 
-<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rose-del&langs_count=8&disable_animations=false&theme=aura&locale=en&hide_border=true"  height="155" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=rose-del&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5" height="155" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rose-del&layout=compact&langs_count=8&theme=aura&hide_border=true" height="155" alt="languages graph"  />
+</div>
 
-<div>
+<div align="left">
   <h2>👨🏻‍💻 Languages and Tools </h2>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
 <br/>
 
-<div>
-    <h2>📊 Stats and Activity</h2>
-  <h3>🔥 Streak Stats</h3>
-  <a href="https://git.io/rose-del">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com?user=rose-del&theme=violet-dark&date_format=M%20j%5B%2C%20Y%5D&card_width=900" alt="rose-del's streak"/>
-  </a>
-  <h3>💻 GitHub Profile Stats</h3>
-  <a href="https://git.io/rose-del">
-    <img src="https://github-readme-stats.vercel.app/api?username=rose-del&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ff007f" height="192px" alt="rose-del's Github Stats"/>
-  </a>
-  <a href="https://git.io/rose-del">
-    <img alt="rose-del's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rose-del&layout=compact&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ff007f" height="192px"/>
-  </a>
-  
-  <br/>
-  <br/>
-  
-  [![Rose-del's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rose-del&bg_color=000000&color=e518a5&line=e518a5&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<h2>💻 Coding Activity</h2> 
+ 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rose-del&bg_color=0a080d&color=8a2be2&line=8a2be2&point=19946f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
 
@@ -45,20 +45,19 @@
   <br>
 </div>
 
-
 ##
 
 <div align="center"> 
-  <a href="https://instagram.com/rose_0.0t" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  <a href="https://instagram.com/rose_0.0t">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://discord.gg/rose_silva" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  <a href="https://discord.gg/rose_silva">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a> 
-  <a href = "mailto:rosenildasantos.estudante@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href="mailto:rosenildasantos.estudante@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/rosenilda-santos-5150a1225" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/rosenilda-santos-5150a1225">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a> 
 </div>
