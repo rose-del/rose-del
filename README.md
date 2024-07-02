@@ -4,8 +4,6 @@
   <h1>Hi there, my name is Rose. Welcome to my Github profile</h1>
 
 <br/>
-<br/>
-<br/>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=rose-del&langs_count=8&disable_animations=false&theme=aura&locale=en&hide_border=true"  height="160" alt="stats graph"  />
