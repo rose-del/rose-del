@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F73D9F&height=120&section=header"/>
   
   <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"/>
-  <h1>Hi there, my name is Rose. Welcome to my Github profile</h1>
+  <h1>Olá, meu chamo Rose. Bem-vindo ao meu perfil no Github.</h1>
 
 <br/>
 
@@ -11,7 +11,7 @@
 </div>
 
 <div align="left">
-  <h2>👨🏻‍💻 Languages and Tools </h2>
+  <h2>👨🏻‍💻 Linguagens e Ferramentas </h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
