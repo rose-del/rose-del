@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F73D9F&height=120&section=header"/>
   
   <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"/>
-  <h1>Olá, meu chamo Rose. Bem-vindo ao meu perfil no Github.</h1>
+  <h1>Olá, me chamo Rose. Bem-vindo ao meu perfil no Github.</h1>
 
 <br/>
 
